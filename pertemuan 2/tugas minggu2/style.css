@@ -1,0 +1,19 @@
+body {
+	background-image: url("jeanne.jpg");
+	background-size: 1500px 750px;
+}
+
+div {
+	background-color: gray;
+	background-position: left bottom;
+	opacity: 0.5;
+	width: 50%;
+	filter: Alpha(opacity=50);
+}
+
+div h1 {
+	text-align: center;
+}
+div h3 {
+	text-align: center;
+}
