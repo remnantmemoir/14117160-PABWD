@@ -1,3 +1,0 @@
-1. Nested property maksudnya adalah, bahwa perubahan css tidak hanya dapat di terapkan di dalam selector, tetapi juga dalam propertinya. contohnya di sini adalah membuat bordernya hanya di bagian atas dan bagian bawah, tidak membentuk kotak.
-
-2. Variable di sini maksudnya, kita hanya perlu mendefinisikan atribut pada selektor hanya satu kali dan memasukannya ke variable. Berikutnya kita tinggal memanggil; variable tersebut saja. Jadi lebih menghemat waktu dan tenaga

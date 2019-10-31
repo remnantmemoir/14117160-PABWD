@@ -1,9 +1,0 @@
-1. Pernah, tetapi file masih bisa dijalankan, hanya saja tampilan tidak sesuai dengan yg diinginkan
-
-2. Yang terjadi adalah halaman form_itera akan melakukan refresh setiap 5 detik ke url google.com. Jadi fungsi meta adalah untuk menentukan automasi halaman, contohnya setiap berapa detik halaman akan di refresh dan tujuan refreshnya.
-
-3.	Thead : Digunakan untuk mengelompokan konten yang ada di kepala table
-	Tbody : Sama seperti Thead, tetapi untuk bagian badan
-	tr : untuk mendefinisikan baris pada table
-	td : untuk mendefinisikan isi data tabel
-	tdh: untuk mendefinisikan judul untuk tabel
